@@ -64,3 +64,5 @@ files_to_translate.txt
 # pixi environments
 .pixi
 *.egg-info
+Builds/build_1_0_0
+LibPacks
